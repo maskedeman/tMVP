@@ -1,0 +1,16 @@
+{
+    "server": {
+        "domain": "domain_name",
+        "port": "3001"
+    },
+    "database": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "root",  
+        "name": "transaction"
+    },
+    "pagination": {
+        "page_size": 25
+    }
+   
+}

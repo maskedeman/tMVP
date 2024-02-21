@@ -1,0 +1,17 @@
+{
+    "server": {
+        "domain": "domain_name",
+        "port": "server_port"
+    },
+    "database": {
+        "host": "database_host",
+        "port": database_port,
+        "user": "database_username",
+        "password": "database_password",
+        "name": "database_name"
+    },
+    "pagination": {
+        "page_size": 25
+    }
+
+}
